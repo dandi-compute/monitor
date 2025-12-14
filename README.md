@@ -1,4 +1,4 @@
 | JOBID | PARTITION | NAME | USER | ST | TIME | NODES | CPUS | NODELIST(REASON) |
 |-------|-----------|------|------|----|----|-------|------|------------------|
-| 7236405 | mit_normal | nf-job_dispatch_(job-dispatch) | cb239 | R | 0:01 | 1 | 4 | node1625 |
-| 7236404 | mit_normal | AIND-Ephys-Pipeline | cb239 | R | 1:01 | 1 | 1 | node1623 |
+| 7236409 | mit_normal | nf-preprocessing_(preprocessing) | cb239 | R | 1:40 | 1 | 16 | node1611 |
+| 7236404 | mit_normal | AIND-Ephys-Pipeline | cb239 | R | 3:00 | 1 | 1 | node1623 |
