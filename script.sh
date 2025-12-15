@@ -5,4 +5,4 @@ git commit --message "update" | true
 git push
 
 # CRON
-# */2 * * * * flock -n /orcd/data/dandi/001/flocks/dandi_compute_monitor.lock bash /orcd/data/dandi/001/all-dandi-compute/monitor/script.sh
+# */3 * * * * flock -n /orcd/data/dandi/001/flocks/dandi_compute_monitor.lock bash /orcd/data/dandi/001/all-dandi-compute/monitor/script.sh

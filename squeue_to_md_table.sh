@@ -7,8 +7,8 @@ input=$(cat)
 header=$(echo "$input" | head -n 1)
 
 # Create markdown header
-echo "| JOBID | PARTITION | NAME | ST | TIME | NODES | CPUS | NODELIST(REASON) |"
-echo "|-------|-----------|------|----|----|-------|------|------------------|"
+echo "| Job ID | Partition | Name | ST | Time | Nodes | CPUs | Nodelist (Reason) |"
+echo "|--------|-----------|------|----|------|-------|------|-------------------|"
 
 # Process data rows (skip header)
 echo "$input" | tail -n +2 | while IFS= read -r line; do
