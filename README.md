@@ -1,2 +1,3 @@
 | Job ID | Partition | Name | ST | Time | Nodes | CPUs | Nodelist (Reason) |
 |--------|-----------|------|----|------|-------|------|-------------------|
+| 7349543 | mit_data_transfer | backup_nonblobs_deployment.sh | PD | 0:00 | 1 | 1 | (None) |
