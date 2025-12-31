@@ -1,3 +1,3 @@
 | Job ID | Partition | Name | ST | Time | Nodes | CPUs | Nodelist (Reason) |
 |--------|-----------|------|----|------|-------|------|-------------------|
-| 7609430 | mit_normal | script.sh | R | 6:38:08 | 1 | 1 | node1605 |
+| 7609430 | mit_normal | script.sh | R | 6:41:10 | 1 | 1 | node1605 |
